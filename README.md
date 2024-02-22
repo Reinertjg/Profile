@@ -15,5 +15,5 @@ Meu nome é João Guilherme
 
 
 - Atualmente estou trabalhadno na JBS FOODS - Seara Alimentos
-- Estou cursando Analise e Desenvolvimento de Sistemas - SEANAI
+- Estou cursando Desenvolvimento de Sistemas - SEANAI
 
