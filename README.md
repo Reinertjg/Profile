@@ -14,6 +14,6 @@ Meu nome é João Guilherme
 </div>
 
 
-- Atualmente estou trabalhadno na JBS FOODS - Seara Alimentos
+- Atualmente estou trabalhadno na Lince Participações e Empreendimentos Ltda
 - Estou cursando Desenvolvimento de Sistemas - SENAI/SC
 
