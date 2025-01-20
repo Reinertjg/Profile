@@ -8,14 +8,6 @@ Meu nome é João Guilherme
 <a href="https://www.linkedin.com/in/joão-guilherme-79934a27a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-<div>
-<a href="https://github.com/Reinertjg">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=Reinertjg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
-
 - Atualmente estou trabalhadno na Lince Participações e Empreendimentos Ltda
 - Estou cursando Desenvolvimento de Sistemas - SENAI/SC
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinertjg&theme=dark&show_icons=true)
